@@ -2,7 +2,7 @@
 
 This is the arch profile for building iso .
 
-This is a profile for the tool [ARCHISO](https://wiki.archlinux.org/title/Archiso) that helps us build the iso or out distro
+This is a profile for the tool [ARCHISO](https://wiki.archlinux.org/title/Archiso) that helps us build the iso of our distro
 
 How To test the build iso:
 [TEST IN QEMU](https://wiki.archlinux.org/title/Archiso#Test_the_ISO_in_QEMU)
